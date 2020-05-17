@@ -317,6 +317,10 @@ margin-top: 30px;
   font-weight: normal;
   text-decoration: none;
 }
+.footer__column-links {
+  list-style-type: none;
+  padding: 0;
+}
 .footer__social-icon {
   height: 16px;
   width: 16px;
@@ -324,6 +328,3 @@ margin-top: 30px;
 .footer__column_content_info {
 list-style-type: none;
 }
-.footer__column_content_social {
-  list-style-type: none;
-  }
