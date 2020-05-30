@@ -1,6 +1,16 @@
 .video__iframe {
   margin-right: 20px;
+  width: 515px;
+  height: 316px;
+
 }
 .video__iframe:last-of-type {
   margin-right: 0;
 }
+
+/*
+width="515" height="316"
+width="515" height="316" */
+
+/*frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen */
